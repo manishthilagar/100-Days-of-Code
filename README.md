@@ -6,13 +6,15 @@ I'm trying to code for an hour every day for the next 100 days. I am following c
 
 
 # Why am I doing this?
+
+
 To brush up my basics
-Preparing for interviews
+Preparing for Data Science
 learn new things
-I'm gonna start with basics and eventually get into finding solutions to tougher problems. You can find the problem statements and solutions in log.md
+I'm gonna start with basics and eventually get into finding solutions to tougher problems. 
+Will Code minimum an hour every day for the next 100 days.
+![undraw_dev_productivity_umsq](https://user-images.githubusercontent.com/48599986/99629871-cc6e3880-2a5e-11eb-8983-908a4a5f94c2.png)
 
 # Logs
 I'll be adding an entry to log.md for each day, what I tried to resolve, and the process I went through.
 
-
-https://github.com/manishthilagar/100-Days-of-Code/issues/1#issue-746282078
