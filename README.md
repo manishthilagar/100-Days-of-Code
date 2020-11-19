@@ -4,11 +4,11 @@ I'm trying to code for an hour every day for the next 100 days. I am following c
 
 
 
-Why am I doing this?
+# Why am I doing this?
 To brush up my basics
 Preparing for interviews
 learn new things
 I'm gonna start with basics and eventually get into finding solutions to tougher problems. You can find the problem statements and solutions in log.md
 
-Logs
+# Logs
 I'll be adding an entry to log.md for each day, what I tried to resolve, and the process I went through.
