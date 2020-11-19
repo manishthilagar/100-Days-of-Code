@@ -13,4 +13,5 @@ I'm gonna start with basics and eventually get into finding solutions to tougher
 # Logs
 I'll be adding an entry to log.md for each day, what I tried to resolve, and the process I went through.
 
-![alt text]("C:\Users\manish\Downloads\undraw_dev_focus_b9xo.svg")
+
+https://github.com/manishthilagar/100-Days-of-Code/issues/1#issue-746282078
